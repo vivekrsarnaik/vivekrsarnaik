@@ -10,14 +10,10 @@
 
 ## 🚀 About Me
 
-🎓 M.S. Information Science @ Trine University
-
-🎓 M.S. Computer Science @ The University of Texas at Arlington
-
-💻 Full Stack Software Engineer with 2+ years of experience building web applications and backend systems
-
-☁️ Passionate about Cloud Computing, Distributed Systems, and Software Engineering
-
+🎓 M.S. Information Science @ Trine University  
+🎓 M.S. Computer Science @ The University of Texas at Arlington  
+💻 Full Stack Software Engineer with 2+ years of experience building web applications and backend systems  
+☁️ Passionate about Cloud Computing, Distributed Systems, and Software Engineering  
 🚀 Experienced with Python, React, FastAPI, PostgreSQL, Docker, and AWS
 
 ---
@@ -28,9 +24,14 @@
   <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nextjs,angular,nodejs,express,django,flask,fastapi,postgres,mysql,mongodb,redis,docker,aws,git,github,jenkins,linux,vscode" />
 </p>
 
-
 ---
 
+## 🧠 Interests
+
+🔹 Full Stack Development (Frontend + Backend)  
+🔹 Distributed Systems & Cloud Infrastructure  
+🔹 Machine Learning & Intelligent Systems  
+🔹 Big Data Engineering & Real-Time Processing
 
 ---
 
