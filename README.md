@@ -1,52 +1,46 @@
-# 👋 Hi, I'm Vivek Rajkumar Sarnaik
+# 👋 Hi, I'm Vivek Sarnaik
 
-### Full Stack Software Engineer | Python • React • AWS
+### Software Engineer | Backend & Distributed Systems | Python · Go · FastAPI · PostgreSQL
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer;Python+%7C+React+%7C+AWS;Building+Scalable+Web+Applications;Cloud+Computing+%26+Distributed+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Software+Engineer;Python+%7C+Go+%7C+FastAPI+%7C+PostgreSQL;Distributed+Systems+%26+APIs" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 M.S. Information Science @ Trine University  
-🎓 M.S. Computer Science @ The University of Texas at Arlington  
-💻 Full Stack Software Engineer with 2+ years of experience building web applications and backend systems  
-☁️ Passionate about Cloud Computing, Distributed Systems, and Software Engineering  
-🚀 Experienced with Python, React, FastAPI, PostgreSQL, Docker, and AWS
+- 💼 Software Engineer at **Almond Technologies** (2020–2021): cut API latency by 30%, built Stripe webhook handlers, secured 30+ FastAPI endpoints with JWT + RBAC
+- 🎓 **M.S. Computer Science**, The University of Texas at Arlington
+- 🎓 **M.S. Information Science**, Trine University
+- 🔍 Open to full-time **Software Engineer** roles (backend / full-stack)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 📌 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [Distributed Job Scheduler](https://github.com/vivekrsarnaik/distributed-job-scheduler) | Priority queues, multi-worker processing, retries with exponential backoff | Python, FastAPI, Redis, PostgreSQL, Docker |
+| [gRPC ChatHub](https://github.com/vivekrsarnaik/gRPC-chat-Application) | Real-time chat with bidirectional streaming and DMs | Go, gRPC, Protobuf, PostgreSQL, Docker |
+| [AI Code Review Assistant](https://github.com/vivekrsarnaik/ai-code-review-assistant) | Flags bugs, security and performance issues using an LLM | Python, FastAPI, React, PostgreSQL, OpenAI API |
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nextjs,angular,nodejs,express,django,flask,fastapi,postgres,mysql,mongodb,redis,docker,aws,git,github,jenkins,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,ts,js,react,fastapi,postgres,redis,docker,aws,git,github,jenkins,linux" />
 </p>
 
 ---
 
-## 🧠 Interests
-
-🔹 Full Stack Development (Frontend + Backend)  
-🔹 Distributed Systems & Cloud Infrastructure  
-🔹 Machine Learning & Intelligent Systems  
-🔹 Big Data Engineering & Real-Time Processing
-
----
-
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vivekrsarnaik">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  <a href="https://www.linkedin.com/in/vivekrsarnaik"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:vivekrsarnaik@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <a href="mailto:vivekrsarnaik@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  &nbsp;&nbsp;
+  <a href="https://viveksarnaik.com"><img src="https://skillicons.dev/icons?i=html" /></a>
 </p>
-
----
-
-⭐ Thanks for visiting my profile!
