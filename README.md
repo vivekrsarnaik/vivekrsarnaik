@@ -12,7 +12,7 @@
 
 - 💼 Software Engineer at **Almond Technologies** (2020–2021): cut API latency by 30%, built Stripe webhook handlers, secured 30+ FastAPI endpoints with JWT + RBAC
 - 🎓 **M.S. Computer Science**, The University of Texas at Arlington
-- 🎓 **M.S. Information Science**, Trine University
+- 🎓 **M.S. Information Studies**, Trine University
 - 🔍 Open to full-time **Software Engineer** roles (backend / full-stack)
 
 ---
